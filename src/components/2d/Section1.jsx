@@ -13,7 +13,7 @@ const Section1 = () => {
         >
           <h1 className='text-6xl font-black'>Section 1</h1>
           <h2 className='text-4xl font-bold'>Perspective Camera Scene</h2>
-          <p>This is just a normal 3D scene with a fixed perspective camera.</p>
+          <p>This is a sample 3D scene with a fixed perspective camera.</p>
           <a href='#section2' className='absolute bottom-8'>
             <IoArrowDownCircleSharp className='text-4xl animate-pulse' />
           </a>
