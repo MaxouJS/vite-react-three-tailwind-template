@@ -43,7 +43,7 @@ const CameraShakeScene = ({ children }) => {
         shadow-mapSize-width={1024}
       />
       <Box
-        position={[0, 0.5, 0]}
+        position={[0, 0, 0]}
         size={[1, 1, 1]}
         color={'hotpink'}
       />
